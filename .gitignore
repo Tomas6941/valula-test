@@ -1,0 +1,7 @@
+node_modules
+.next
+out
+.env*
+!.env.example
+firmware/esp32_valve/config.h
+*.log
